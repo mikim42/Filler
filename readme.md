@@ -7,7 +7,7 @@ __Installation:__
 
 **Usage:**
 * `./filler_vm -f <MAP_FILE> -p1 <PLAYER> -p2 <PLAYER>`
-* `./filler_vm for vm help`
+* `./filler_vm --help`
 
 **Example:**
 * `./filler_vm -f source/maps/map00 -p1 ./filler -p2 source/players/superjeannot.filler`
